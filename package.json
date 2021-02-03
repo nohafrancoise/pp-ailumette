@@ -1,0 +1,17 @@
+{
+  "name": "pp-ailumette",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "repository": "https://github.com/nohafrancoise/pp-ailumette",
+  "author": "nohafrancoise",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^7.3.3",
+    "lodash": "^4.17.20",
+    "yarn": "^1.22.10"
+  },
+  "scripts": {
+    "start": "node src/main"
+  }
+}
